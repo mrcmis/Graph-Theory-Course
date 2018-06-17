@@ -7,3 +7,8 @@ Team members:
 Karolina Mizera github.com/cocoyenn  
 Krystian Molenda  github.com/pierwiastekzminusjeden  
 Marcin Miś  github.com/mrcmis  
+
+
+
+
+![randomcohesivegraph](https://user-images.githubusercontent.com/32744421/41509516-74e20f2e-7255-11e8-8063-3ee9c0299aa0.png)
